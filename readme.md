@@ -24,7 +24,7 @@
 # 🐤
 
 <div align="center">
-<h2> latest tweets</h2>
+<h2> Latest Tweets</h2>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sunilsapkota09&layout=wide&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
 
