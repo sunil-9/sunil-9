@@ -5,9 +5,9 @@
 
 # 🙋‍♂️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=42&duration=5000&color=15F7BE&lines=Sunil-9:+hey+%F0%9F%91%8B;Welcome+to+my+Github;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&color=15F7BE&lines=Sunil-9:+hey+%F0%9F%91%8B;Welcome+to+my+Github;)](https://git.io/typing-svg)
 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-nepal_1f1f3-1f1f5.png" height="15px"/>.
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-nepal_1f1f3-1f1f5.png" height="40px"/>.
 
 <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-9&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
