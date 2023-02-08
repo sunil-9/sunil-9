@@ -34,7 +34,19 @@
    <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a>
  </div>
 </div>  
-        
+
+#
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Latest Tweets</b></td>
+    <td><b style="font-size:30px">daily.dev</b></td>
+ </tr>
+ <tr>
+    <td>[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sunilsapkota09&layout=wide&show_reply=on&show_retweet=on)](https://github.com/gazf/github-readme-twitter)</td>
+    <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a></td>
+ </tr>
+</table>
+
 #
         
 <div align="center" >
