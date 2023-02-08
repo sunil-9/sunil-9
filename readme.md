@@ -37,8 +37,8 @@
 </div>
 
 #
- <div align="center">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=sunil-9&theme=tokyonight" alt="sushant-lamsal" />
+ <div align="right">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=sunil-9&theme=tokyonight" alt="sunil sapkota" />
 </div>
         
 #
