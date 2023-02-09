@@ -43,8 +43,8 @@
 <div align="center">
 <table >
  <tr>
-    <td><b style="font-size:30px">Latest Tweets</b></td>
-    <td><b style="font-size:30px">daily.dev</b></td>
+    <td><b style="font-size:90px">Latest Tweets</b></td>
+    <td><b style="font-size:90px">daily.dev</b></td>
  </tr>
  <tr>
          <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil sapkota twitter" > </img></a></td>
