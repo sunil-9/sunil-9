@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=32&duration=3000&color=f06667&lines=Welcome+to+my+Github;)](https://git.io/typing-svg)
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=sunil-9.sunil-9)
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<!-- <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 [![Github](https://img.shields.io/github/followers/sunil-9?label=Follow&style=social)](https://github.com/sunil-9)
 
@@ -18,7 +19,9 @@
 - 🔭 I’m currently working on Adbreak Media
 - 🌱 I’m currently learning Docker, Kubernetes & Aws
 - 💬 Ask me about Sql, MongoDb, PHP, Nodejs & Android
-- ⚡ Fun fact: I love to play Football
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to travel and I like to have new opportunities 🛫
+- 🌐 Visit <a href="https://sapkotasunil.com.np">my porfolio website </a> for complete background and contact.
 
 <!-- <h2> Languages and Tools <img src = "https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2> -->
 <br>
@@ -38,6 +41,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 [![Github Badge](https://img.shields.io/badge/-sunil-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sunil-9)](https://github.com/sunil-9) [![Linkedin Badge](https://img.shields.io/badge/-sunil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunil-sapkota-9a7b6b1b6/)](https://www.linkedin.com/in/sunilsapkota09/) [![medimu Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/in/sunil-sapkota-9a7b6b1b6/)](https://sunil-9.medium.com/) [![gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sunilsapkota9@gmail.com) [![stackoverflow Badge](https://img.shields.io/badge/-StackOverflow-black?style=flat-square&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/8008979/sunil-sapkota)
+<br>
 
 <h2> Github Stats <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2>
 <div align="center">
