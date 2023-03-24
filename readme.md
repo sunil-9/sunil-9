@@ -5,15 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=32&duration=3000&color=f06667&lines=Welcome+to+my+Github;)](https://git.io/typing-svg)
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=sunil-9.sunil-9)
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 [![Github](https://img.shields.io/github/followers/sunil-9?label=Follow&style=social)](https://github.com/sunil-9)
 
-<div size='20px'> Hi! My name is Sunil sapkota. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='25px'> Hi! My name is Sunil sapkota. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=ch7" width="50%" align="right" alt="sunil sapkota's Dev Card"/></a>
 
 - 🔭 I’m currently working on Adbreak Media
 - 🌱 I’m currently learning Docker, Kubernetes & Aws
