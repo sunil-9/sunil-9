@@ -53,7 +53,7 @@
 
 | ![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunil-9&show_icons=true&theme=radical&count_private=true) | ![Sunil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunil-9&theme=radical)                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-9&theme=radical&count_private=true)                 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sunil-9&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-9&theme=radical&count_private=true&hide=html,html)                 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sunil-9&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
