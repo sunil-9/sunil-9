@@ -3,8 +3,8 @@
 </p> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=32&duration=3000&color=f06667&lines=Welcome+to+my+Github;)](https://git.io/typing-svg)
-<!-- 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=sunil-9.sunil-9) -->
+
+![Profile views](https://gpvc.arturio.dev/sunil-9)
 <img style="margin-bottom:5px" width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
