@@ -22,5 +22,5 @@ jobs:
           git config user.email suneelsapkota9@gmail.com
           git pull origin main
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated images"
           git push
