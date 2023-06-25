@@ -18,8 +18,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name sunil-9
-          git config user.email suneelsapkota9@gmail.com
+          git config user.name auto
+          git config user.email auto@gmail.com
           git pull origin main
           git add -A .
           git commit -m "generated images"
