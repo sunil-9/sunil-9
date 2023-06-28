@@ -102,9 +102,9 @@
 
 <div align="center">
   
-| ![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunil-9&show_icons=true&theme=radical&count_private=true) |          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-9&theme=radical&count_private=true&hide=html,css)                                                                                                     |
+| ![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunil-9&show_icons=true&theme=radical&count_private=true) |          ![Sunil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunil-9&theme=radical)                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    ![Sunil GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunil-9&theme=radical)            | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical) |
+
   
 </div>
 
