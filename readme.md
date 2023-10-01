@@ -114,7 +114,7 @@
   <a href="https://github.com/sunil-9">
     <img src="https://img.shields.io/badge/-sunil-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sunil-9" alt="Github" />
   </a>
-  <a href="https://www.linkedin.com/in/sunil-sapkota-9a7b6b1b6/">
+  <a href="https://www.linkedin.com/in/sunilsapkota09/">
     <img src="https://img.shields.io/badge/-sunil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunil-sapkota-9a7b6b1b6/" alt="Linkedin" />
   </a>
   <a href="https://sunil-9.medium.com/">
