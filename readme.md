@@ -14,12 +14,7 @@
 
 
 
-<div align="left">
-   <img src="https://gpvc.arturio.dev/sunil-9" alt="Profile views" />
-  <a href="https://github.com/sunil-9">
-    <img src="https://img.shields.io/github/followers/sunil-9?label=Follow&style=social" alt="Github followers" />
-  </a>
-</div>
+
 
 ---
 
