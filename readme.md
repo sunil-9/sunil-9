@@ -21,7 +21,7 @@
 <div align="center">
   
   <p>Android Developer | Node.Js Developer | DevOps Engineer</p>
-  <p>2+ years of working experience</p>
+  <p>3+ years of working experience</p>
   <p>Currently working at Gaintplay as a Backend Developer</p>
 </div>
 
