@@ -93,6 +93,8 @@
 
 
 ---
+[![An image of @sunil9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunil9)](https://holopin.io/@sunil9)
+---
 <!-- <h2> Github Stats <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2> -->
 <h2 align="center">Github Stats 📈</h2>
 
